@@ -79,7 +79,9 @@ python volume_control.py
 Here are some demo you can check it out
 
 ### - AI Painter
-![AI Painter](https://github.com/SamwitAdhikary/OpenCV-Projects/blob/master/Screenshots/aipainter.gif)
+<p align="center">
+  <img src="https://github.com/SamwitAdhikary/OpenCV-Projects/blob/master/Screenshots/aipainter.gif" alt="animated" />
+</p>
 
 ### - Chrome Dino
 ![Chrome Dino](paste your link here)
