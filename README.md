@@ -31,7 +31,6 @@ pip install -r requirements.txt
 - [Hand Detection](https://github.com/SamwitAdhikary/OpenCV-Projects/tree/master/Hand%20Detection)
 - [Object Detect](https://github.com/SamwitAdhikary/OpenCV-Projects/tree/master/Object%20Detect)
 - [Volume Hand Control](https://github.com/SamwitAdhikary/OpenCV-Projects/tree/master/Volume%20Hand%20Control)
-<hr>
 
 ## Usage/Examples
 
