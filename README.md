@@ -103,6 +103,12 @@ python main.py
   <img width="640" height="360" src="https://github.com/SamwitAdhikary/OpenCV-Projects/blob/master/Screenshots/dinogame.gif" alt="animated" />
 </p>
 
+To run the Chrome Dino run the command
+```bash
+cd "Chrome Dino"
+python dino.py
+```
+
 <hr>
 
 ### - Face Mesh
@@ -111,6 +117,12 @@ python main.py
 <p align="center">
   <img width="640" height="360" src="https://github.com/SamwitAdhikary/OpenCV-Projects/blob/master/Screenshots/facemesh.gif" alt="animated" />
 </p>
+
+To run the Face Mesh run the command
+```bash
+cd "Face Mesh"
+python faceMesh.py
+```
 
 <hr>
 
@@ -121,12 +133,23 @@ python main.py
   <img width="640" height="360" src="https://github.com/SamwitAdhikary/OpenCV-Projects/blob/master/Screenshots/facerecognition.gif" alt="animated" />
 </p>
 
+To run the Face Recognition you need to first read [this](https://github.com/SamwitAdhikary/OpenCV-Projects/tree/master/Face%20Recognition#installations) after that run the below command
+```bash
+cd "Face Recognition"
+python main_proj.py
+```
 <hr>
 
 ### - Hand Detection
 
 <hr>
 ![Hand Detection](paste your link here)
+
+To run the Hand Detection run the command
+```bash
+cd "Hand Detection"
+python project.py
+```
 
 <hr>
 
@@ -135,9 +158,20 @@ python main.py
 <hr>
 ![Object Detection](paste your link here)
 
+To run the Face Recognition you need to first read [this](https://github.com/SamwitAdhikary/OpenCV-Projects/tree/master/Object%20Detect#installation) after that run the below command
+```bash
+cd "Object Detect"
+python detection.py
+```
 <hr>
 
 ### - Volume Hand Control
 
-<hr>
 ![Volume Hand Control](paste your link here)
+
+To run the Volume Hand Control run the command
+```bash
+cd "Volume Hand Control"
+python volume_control.py
+```
+<hr>
