@@ -88,6 +88,12 @@ Here are some demo you can check it out
   <img width="640" height="360" src="https://github.com/SamwitAdhikary/OpenCV-Projects/blob/master/Screenshots/aipainter.gif" alt="animated" />
 </p>
 
+To run the AI Painter run the command
+```bash
+cd "Ai Painter"
+python main.py
+```
+
 <hr>
 
 ### - Chrome Dino
