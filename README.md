@@ -3,7 +3,9 @@
 
 Here you can find every type of OpenCV projects to work with. Simply clone this project and get started with OpenCV.
 
-## Requirements
+<hr>
+<h2> Requirements </h2>
+<hr>
 - Any Operating System (ie. MacOS, Windows, Linux)
 - Any IDE with Python installed
 - Basic knowledge of Python
