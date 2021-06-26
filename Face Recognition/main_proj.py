@@ -7,7 +7,6 @@ path = 'images'
 images = []
 classNames = []
 
-camera_port = int(input("Enter Camera Port: "))
 
 myList = os.listdir(path)
 for cl in myList:
@@ -27,7 +26,7 @@ def findEncodings(images):
 encodeListKnown = findEncodings(images)
 print('Encoding Completed!!!\nOpening camera please wait...')
 
-cap = cv2.VideoCapture(camera_port)
+cap = cv2.VideoCapture(0)
 
 while True:
     success, img = cap.read()

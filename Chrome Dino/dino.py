@@ -28,7 +28,7 @@ while True:
 
         if length < 50:
             cv2.circle(img, (cx, cy), 10, (0, 255, 0), cv2.FILLED)
-            print("JUMP")
+            # print("JUMP")
             pyautogui.press('space')
 
 

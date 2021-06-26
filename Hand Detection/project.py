@@ -2,8 +2,7 @@ import cv2
 import mediapipe as mp
 import time
 
-camera = int(input("Enter Camera Port: "))
-cap = cv2.VideoCapture(camera)
+cap = cv2.VideoCapture(0)
 
 mpHands = mp.solutions.hands
 hands = mpHands.Hands()

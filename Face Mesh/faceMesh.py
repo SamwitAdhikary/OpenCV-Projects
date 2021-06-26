@@ -2,8 +2,7 @@ import cv2
 import mediapipe as mp
 
 
-camera = int(input("Enter Camera Port: "))
-cap = cv2.VideoCapture(camera)
+cap = cv2.VideoCapture(0)
 mpFaceMesh = mp.solutions.face_mesh
 mpDraw = mp.solutions.drawing_utils
 face_mesh = mpFaceMesh.FaceMesh(min_detection_confidence=0.8)
