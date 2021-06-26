@@ -123,7 +123,9 @@ python detection.py
 
 ### - Volume Hand Control
 
-![Volume Hand Control](paste your link here)
+<p align="center">
+  <img width="640" height="360" src="https://github.com/SamwitAdhikary/OpenCV-Projects/blob/master/Screenshots/volumecontrol.gif" alt="animated" />
+</p>
 
 To run the Volume Hand Control run the command
 ```bash
