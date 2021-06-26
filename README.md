@@ -33,51 +33,7 @@ pip install -r requirements.txt
 - [Volume Hand Control](https://github.com/SamwitAdhikary/OpenCV-Projects/tree/master/Volume%20Hand%20Control)
 
 ## Usage/Examples
-
-### - AI Painter
-To run the AI Painter run the command
-```bash
-cd "Ai Painter"
-python main.py
-```
-### - Chrome Dino
-To run the Chrome Dino run the command
-```bash
-cd "Chrome Dino"
-python dino.py
-```
-### - Face Mesh
-To run the Face Mesh run the command
-```bash
-cd "Face Mesh"
-python faceMesh.py
-```
-### - Face Recognition
-To run the Face Recognition you need to first read [this](https://github.com/SamwitAdhikary/OpenCV-Projects/tree/master/Face%20Recognition#installations) after that run the below command
-```bash
-cd "Face Recognition"
-python main_proj.py
-```
-### - Hand Detection
-To run the Hand Detection run the command
-```bash
-cd "Hand Detection"
-python project.py
-```
-### - Object Detect
-To run the Face Recognition you need to first read [this](https://github.com/SamwitAdhikary/OpenCV-Projects/tree/master/Object%20Detect#installation) after that run the below command
-```bash
-cd "Object Detect"
-python detection.py
-```
-### - Volume Hand Control
-To run the Volume Hand Control run the command
-```bash
-cd "Volume Hand Control"
-python volume_control.py
-```
-## Demo
-Here are some demo you can check it out
+Here are the commands to run and the final output.
 
 <hr>
 
