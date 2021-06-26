@@ -89,20 +89,44 @@ Here are some demo you can check it out
   <img width="640" height="360" src="https://github.com/SamwitAdhikary/OpenCV-Projects/blob/master/Screenshots/aipainter.gif" alt="animated" />
 </p>
 
+<hr>
+
 ### - Chrome Dino
+
+<hr>
 ![Chrome Dino](paste your link here)
 
+<hr>
+
 ### - Face Mesh
+
+<hr>
 ![Face Mesh](paste your link here)
 
+<hr>
+
 ### - Face Recognition
+
+<hr>
 ![Face Recognition](paste your link here)
 
+<hr>
+
 ### - Hand Detection
+
+<hr>
 ![Hand Detection](paste your link here)
 
+<hr>
+
 ### - Object Detect
+
+<hr>
 ![Object Detection](paste your link here)
 
+<hr>
+
 ### - Volume Hand Control
+
+<hr>
 ![Volume Hand Control](paste your link here)
