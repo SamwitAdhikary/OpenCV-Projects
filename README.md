@@ -24,7 +24,6 @@ pip install -r requirements.txt
 ```
 
 ## Projects
-<hr>
 - [AI Painter](https://github.com/SamwitAdhikary/OpenCV-Projects/tree/master/Ai%20Painter)
 - [Chrome Dino](https://github.com/SamwitAdhikary/OpenCV-Projects/tree/master/Chrome%20Dino)
 - [Face Mesh](https://github.com/SamwitAdhikary/OpenCV-Projects/tree/master/Face%20Mesh)
@@ -81,9 +80,13 @@ python volume_control.py
 ## Demo
 Here are some demo you can check it out
 
+<hr>
+
 ### - AI Painter
+
+<hr>
 <p align="center">
-  <img src="https://github.com/SamwitAdhikary/OpenCV-Projects/blob/master/Screenshots/aipainter.gif" alt="animated" />
+  <img width="640" height="360" src="https://github.com/SamwitAdhikary/OpenCV-Projects/blob/master/Screenshots/aipainter.gif" alt="animated" />
 </p>
 
 ### - Chrome Dino
