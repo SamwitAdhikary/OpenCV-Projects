@@ -3,13 +3,11 @@
 
 Here you can find every type of OpenCV projects to work with. Simply clone this project and get started with OpenCV.
 
-<hr>
-<h2> Requirements </h2>
-<hr>
+
+## Requirements 
 - Any Operating System (ie. MacOS, Windows, Linux)
 - Any IDE with Python installed
 - Basic knowledge of Python
-
 
 ## Installation 
 
@@ -26,6 +24,7 @@ pip install -r requirements.txt
 ```
 
 ## Projects
+<hr>
 - [AI Painter](https://github.com/SamwitAdhikary/OpenCV-Projects/tree/master/Ai%20Painter)
 - [Chrome Dino](https://github.com/SamwitAdhikary/OpenCV-Projects/tree/master/Chrome%20Dino)
 - [Face Mesh](https://github.com/SamwitAdhikary/OpenCV-Projects/tree/master/Face%20Mesh)
@@ -33,6 +32,8 @@ pip install -r requirements.txt
 - [Hand Detection](https://github.com/SamwitAdhikary/OpenCV-Projects/tree/master/Hand%20Detection)
 - [Object Detect](https://github.com/SamwitAdhikary/OpenCV-Projects/tree/master/Object%20Detect)
 - [Volume Hand Control](https://github.com/SamwitAdhikary/OpenCV-Projects/tree/master/Volume%20Hand%20Control)
+<hr>
+
 ## Usage/Examples
 
 ### - AI Painter
