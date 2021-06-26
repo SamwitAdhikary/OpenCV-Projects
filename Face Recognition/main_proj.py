@@ -27,6 +27,8 @@ encodeListKnown = findEncodings(images)
 print('Encoding Completed!!!\nOpening camera please wait...')
 
 cap = cv2.VideoCapture(0)
+cap.set(3, 1920)
+cap.set(4, 1080)
 
 while True:
     success, img = cap.read()
@@ -52,4 +54,5 @@ while True:
             cv2.putText(img, name, (x1+6,y2-6), cv2.FONT_HERSHEY_COMPLEX, 1, (0,0,0),2)
 
     cv2.imshow('WebCam', img)
-    cv2.waitKey(1)
+    if cv2.waitKey(1) == ord('q'):
+        break

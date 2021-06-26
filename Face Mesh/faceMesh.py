@@ -3,6 +3,8 @@ import mediapipe as mp
 
 
 cap = cv2.VideoCapture(0)
+cap.set(3, 1920)
+cap.set(4, 1080)
 mpFaceMesh = mp.solutions.face_mesh
 mpDraw = mp.solutions.drawing_utils
 face_mesh = mpFaceMesh.FaceMesh(min_detection_confidence=0.8)

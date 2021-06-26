@@ -93,21 +93,27 @@ Here are some demo you can check it out
 ### - Chrome Dino
 
 <hr>
-![Chrome Dino](paste your link here)
+<p align="center">
+  <img width="640" height="360" src="https://github.com/SamwitAdhikary/OpenCV-Projects/blob/master/Screenshots/dinogame.gif" alt="animated" />
+</p>
 
 <hr>
 
 ### - Face Mesh
 
 <hr>
-![Face Mesh](paste your link here)
+<p align="center">
+  <img width="640" height="360" src="https://github.com/SamwitAdhikary/OpenCV-Projects/blob/master/Screenshots/facemesh.gif" alt="animated" />
+</p>
 
 <hr>
 
 ### - Face Recognition
 
 <hr>
-![Face Recognition](paste your link here)
+<p align="center">
+  <img width="640" height="360" src="https://github.com/SamwitAdhikary/OpenCV-Projects/blob/master/Screenshots/facerecognition.gif" alt="animated" />
+</p>
 
 <hr>
 
