@@ -99,7 +99,9 @@ python main_proj.py
 ### - Hand Detection
 
 <hr>
-![Hand Detection](paste your link here)
+<p align="center">
+  <img width="640" height="360" src="https://github.com/SamwitAdhikary/OpenCV-Projects/blob/master/Screenshots/handdetect.gif" alt="animated" />
+</p>
 
 To run the Hand Detection run the command
 ```bash

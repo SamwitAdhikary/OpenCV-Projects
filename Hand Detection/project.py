@@ -19,5 +19,6 @@ while True:
             mpDraw.draw_landmarks(img, handLms, mpHands.HAND_CONNECTIONS)
 
     cv2.imshow("Image", img)
-    cv2.waitKey(1)
+    if cv2.waitKey(1) == ord('q'):
+        break
 
