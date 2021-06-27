@@ -114,7 +114,9 @@ python project.py
 ### - Object Detect
 
 <hr>
-![Object Detection](paste your link here)
+<p align="center">
+  <img width="640" height="360" src="https://github.com/SamwitAdhikary/OpenCV-Projects/blob/master/Screenshots/objectdetection.gif" alt="animated" />
+</p>
 
 To run the Face Recognition you need to first read [this](https://github.com/SamwitAdhikary/OpenCV-Projects/tree/master/Object%20Detect#installation) after that run the below command
 ```bash
