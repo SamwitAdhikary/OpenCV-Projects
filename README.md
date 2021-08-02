@@ -97,6 +97,13 @@ python main_proj.py
 ```
 <hr>
 
+### - Gender Detection
+To run the Gender Detection run the command
+```bash
+cd "Gender Detection"
+python gender_detect.py
+```
+
 ### - Hand Detection
 
 <hr>
