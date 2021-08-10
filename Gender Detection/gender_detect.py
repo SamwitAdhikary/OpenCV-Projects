@@ -12,6 +12,7 @@ classes = ['man', 'woman']
 while True:
 
     success, img = cap.read()
+    img = cv2.flip(img, 1)
 
     face, confidence = cvlib.detect_face(img)
 
