@@ -45,7 +45,7 @@ import datetime
 
 # model_saved = model.fit_generator(
 #     training_set,
-#     epochs=30,
+#     epochs=10,
 #     validation_data=test_set,
 # )
 
@@ -53,7 +53,7 @@ import datetime
 
 # mymodel = load_model('mymodel.h5')
 
-# test_image = image.load_img(r'C:\Users\samwi\Desktop\New folder (4)\test\with_mask\1-with-mask.jpg', target_size=(150,150,3))
+# test_image = image.load_img(r'C:\Users\samwi\Desktop\OpenCV-Projects\Face Mask Detector\test\with_mask\1-with-mask.jpg', target_size=(150,150,3))
 
 # test_image
 # test_image = image.img_to_array(test_image)
@@ -62,7 +62,7 @@ import datetime
 
 mymodel = load_model('mymodel.h5')
 
-cap = cv2.VideoCapture(1)
+cap = cv2.VideoCapture(0)
 cap.set(3, 1280)
 cap.set(4, 720)
 face_cascade = cv2.CascadeClassifier('haarcascade_frontalface_default.xml')
